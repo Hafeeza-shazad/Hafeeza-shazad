@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently working on:<br>Building my skills in Python and data analysis as I explore the path to becoming a data scientist. I'm also learning the Frappe framework for web development.<br><br>🎯 I’m currently learning:<br>Python, backend development, and DevSecOps basic<br><br>🎓 I’m currently enrolled in:<br>A Data Science ALX program to build a strong foundation in data analysis, machine learning, and real-world problem solving.<br>I am also a 4th year BBIT student.<br><br><br>✨ Fun fact:<br>I love painting, watching anime, and recently discovered I enjoy playing football (even if I’m still learning the rules)!
+🌱 I’m currently working on:<br>Building my skills in Python and data analysis as I explore the path to becoming a data scientist. I'm also learning the Frappe framework for web development.<br><br>🎯 I’m currently learning:<br>Python, backend development, and DevSecOps basic<br>.<br>I am also a 4th year BBIT student.<br><br><br>✨ Fun fact:<br>I love painting, watching anime, and recently discovered I enjoy playing football (even if I’m still learning the rules)!
 
 
 ## 🌐 Socials:
